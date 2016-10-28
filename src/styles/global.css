@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+.container {
+  padding: 50px;
+  display: flex;
+  justify-content: space-between; }
+
+/*# sourceMappingURL=global.css.map */
